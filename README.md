@@ -4,17 +4,17 @@ StoryCrafter is an interactive AI-based web app that creates imaginative stories
 
 * Select a location for the story setting
 
-Choose a main character name
+* Choose a main character name
 
-Pick a target language for translation
+* Pick a target language for translation
 
 Once these inputs are provided, the app generates a personalized story and translates it instantly, making it a fun and educational tool for multilingual storytelling.
 
 Tech Stack:
-LLM: GPT-4o mini
+* LLM: GPT-4o mini
 
-Framework: Streamlit
+* Framework: Streamlit
 
-Orchestration: LangChain
+* Orchestration: LangChain
 
-This project is ideal for parents, educators, and developers interested in creative AI applications for children.
+## This project is ideal for parents, educators, and developers interested in creative AI applications for children.
