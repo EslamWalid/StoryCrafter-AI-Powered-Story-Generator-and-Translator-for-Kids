@@ -7,6 +7,8 @@ StoryCrafter is an interactive AI-based web app that creates imaginative stories
 * Choose a main character name
 
 * Pick a target language for translation
+  ![Screenshot 2025-05-22 081031](https://github.com/user-attachments/assets/01adf95a-2236-4892-a645-0af0c8c214ae)
+
 
 Once these inputs are provided, the app generates a personalized story and translates it instantly, making it a fun and educational tool for multilingual storytelling.
 
